@@ -123,17 +123,7 @@ body {
   }
 }
 
-@keyframes dance {
-  0%, 100%  {
-    transform: rotate(0);
-  }
-  25% {
-    transform: rotate(-30deg);
-  }
-  75% {
-    transform: rotate(30deg);
-  }
-}
+
 
 .card-back {
   background-color: black;

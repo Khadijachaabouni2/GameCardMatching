@@ -19,7 +19,7 @@ class AudioController {
         this.flipSound.play();
     }
     match() {
-        this.matchSound.play();
+        this.matchSound.play()
     }
     victory() {
         this.stopMusic();
